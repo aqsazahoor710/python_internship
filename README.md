@@ -1,4 +1,4 @@
-# Daily Tasks Repository
+# Daily  python internship Tasks Repository
 
 This repository is used to store daily tasks.
 
